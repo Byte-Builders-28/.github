@@ -45,7 +45,7 @@ We explore, create, and innovate across multiple domains — wherever good ideas
 
 5. **Darsan Ghosh (XpolioN)** — Game Developer & Data Science 
 
-   * GitHub: [xpolion2005](https://github.com/xpolion2005)
+   * GitHub: [XpolioN2005](https://github.com/xpolion2005)
 
 ---
 
