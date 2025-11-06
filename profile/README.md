@@ -58,4 +58,5 @@ To create technology that starts small and scales fast — from ideas to impact.
 ### 🧩 Foundation
 
 Batch of 2028 • Built on logic, learning, and late nights.
+Established: 5 July 2025
 
