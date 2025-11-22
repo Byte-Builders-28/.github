@@ -34,6 +34,10 @@
 **Skills:** Godot, Unity, Python, Data Analysis<br>
 **GitHub:** [XpolioN2005](https://github.com/xpolion2005) <br>
 
+**Rishika Jha **<br>
+*Designer & Public Relationship*<br>
+**Skills:** FrontEnd, Canva, Figma<br>
+**GitHub:** [Rishika-Jha](https://github.com/jha-rishika) <br>
 ---
 
 ### 🚀 Vision
